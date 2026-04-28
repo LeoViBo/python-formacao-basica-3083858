@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="pt_BR" class="ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt_BR"  > <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+      <meta name="csrf_field_name" content="_csrf_token" />
+      <meta name="_csrf_token" content="ImNlOTRiZjQ4ZDYwMDY4YTU2MTExOTNjY2M0MzVhNjMxZGQ2ZTBlYTUi.afE2TQ.AFFYw4TYpkO5DXOYH_iMzrRPd0M" />
+
+      <meta name="generator" content="ckan 2.11.4" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N0RCR0EQ81"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-N0RCR0EQ81');
+    </script>
+
+    <title>Erro 404 - Portal de Dados Abertos da Prefeitura do Recife</title>
+
+    
+    <link rel="shortcut icon" href="/base/images/favicon.ico" />
+    
+    
+      
+      
+      
+    
+    
+
+
+    
+    <link href="/webassets/base/bd7580b4_main.css" rel="stylesheet"/>
+<link href="/webassets/ckanext-geoview/f197a782_geo-resource-styles.css" rel="stylesheet"/>
+    
+    
+
+  </head>
+
+  
+  <body data-site-root="https://dados.recife.pe.gov.br:443/" data-locale-root="https://dados.recife.pe.gov.br:443/" >
+
+    
+    <div class="visually-hidden-focusable"><a href="#content">Ir para o conteúdo principal</a></div>
+  
+
+  
+    
+
+ 
+<div class="account-masthead">
+  <div class="container">
+     
+    <nav class="account not-authed" aria-label="Conta">
+      <ul class="list-unstyled">
+        
+    
+        <li><a href="/user/login">Entrar</a></li>
+         
+    
+    <li>
+      <a href="/contact" title="Fale conosco">
+        
+           Contato
+        
+      </a>
+    </li>
+
+
+      </ul>
+    </nav>
+     
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="container">
+      
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <hgroup class="header-image navbar-left">
+
+      
+      
+      <a class="logo" href="/">
+        <img src="https://statics.recife.pe.gov.br/images/ckan/Logo_Dados_Recife_branca.svg" alt="Portal de Dados Abertos da Prefeitura do Recife"
+          title="Portal de Dados Abertos da Prefeitura do Recife" />
+      </a>
+      
+      
+
+       </hgroup>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation-toggle"
+        aria-controls="main-navigation-toggle" aria-expanded="false" aria-label="Alternar navegação">
+        <span class="fa fa-bars text-white"></span>
+      </button>
+
+      <div class="main-navbar collapse navbar-collapse" id="main-navigation-toggle">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          
+            
+              
+              
+
+              <li><a href="/dataset/">Conjuntos de dados</a></li><li><a href="/organization/">Organizações</a></li><li><a href="/group/">Grupos</a></li>
+
+                <li>
+                  <a href="https://hubdedados.recife.pe.gov.br/visualizacoes" target="_blank" title="Visualizações">Visualizações</a>
+                </li>
+                <li>
+                  <a href="/contact" title="Fale conosco">Contato</a>
+                </li>
+
+            
+          </ul>
+
+      
+      
+          <form class="d-flex site-search" action="/dataset/" method="get">
+              <label class="d-none" for="field-sitewide-search">Pesquisar conjuntos de dados...</label>
+              <input id="field-sitewide-search" class="form-control me-2"  type="text" name="q" placeholder="Pesquisar" aria-label="Pesquisar conjuntos de dados..."/>
+              <button class="btn" type="submit" aria-label="Enviar"><i class="fa fa-search"></i></button>
+          </form>
+      
+      </div>
+    </nav>
+  </div>
+</header>
+
+  
+    <div class="main">
+      <div id="content" class="container">
+        
+          
+  
+  
+
+
+          
+            <div class="toolbar" role="navigation" aria-label="Rastro de navegação">
+              
+
+            </div>
+          
+
+          <div class="row wrapper no-nav">
+            
+            
+            
+
+            
+
+            
+  <article class="module">
+    <div class="module-content">
+      
+      <h1>404 Not Found</h1>
+      
+      Recurso não encontrado
+    </div>
+    
+    
+  
+  </article>
+
+          </div>
+        
+      </div>
+    </div>
+  
+    <footer class="site-footer">
+  <div class="container">
+    
+    <!-- Primeira linha: 4 colunas -->
+    <div class="row pb-3">
+      <!-- Coluna 1: O Portal -->
+      <div class="col-md-3 footer-links-recife">
+        <h2>O Portal</h2>
+        <ul class="list-unstyled">
+          <li><a href="/pages/sobre">Sobre o Portal</a></li>
+          <li><a href="/base/doc/recife/padrao_de_servico_de_dados_da_prefeitura_da_cidade_de_recife.pdf" target="_blank">Padrão de Serviço de Dados da Prefeitura da Cidade de Recife</a></li>
+          <li><a href="/base/doc/recife/padroes_de_publicacao_dos_dados_no_portal_de_dados_abertos_do_recife.pdf" target="_blank">Padrões de Publicação dos Dados no
+Portal de Dados Abertos do Recife</a></li>
+          <li><a href="/base/doc/recife/plano_de_dados_abertos_do_recife.pdf" target="_blank">Política de Dados Abertos da Prefeitura do Recife</a></li>
+          <li><a href="/base/doc/recife/sistematica_de_atualizacao_de_dados_do_portal_de_dados_abertos_da_prefeitura_do_recife.pdf" target="_blank">Sistemática de Atualização de Dados do Portal de Dados Abertos do Recife</a></li>
+          <li><a href="https://hubdedados.recife.pe.gov.br/visualizacoes" target="_blank" rel="noopener">Visualizações de Dados</a></li>
+          <li><a href="/pages/perguntas-frequentes">Perguntas Frequentes</a></li>
+          <li><a href="/pages/agradecimentos">Agradecimentos</a></li>
+        </ul>
+      </div>
+      
+      <!-- Coluna 2: Manuais e Vídeos -->
+      <div class="pt-md-0 pt-3 col-md-3 footer-links-recife">
+        <h2>Manuais e Vídeos</h2>
+        <ul class="list-unstyled">
+          <li><a href="http://www.w3c.br/pub/Materiais/PublicacoesW3C/Manual_Dados_Abertos_WEB.pdf" target="_blank" rel="noopener">Manual de Dados Abertos W3C</a></li>
+          <li><a href="http://www.w3c.br/pub/Materiais/PublicacoesW3C/manual_dados_abertos_desenvolvedores_web.pdf" target="_blank" rel="noopener">Manual do desenvolvedor W3C</a></li>
+          <li><a href="http://www.w3c.br/pub/Materiais/PublicacoesW3C/encarte_manual_desenvolvedores_web.pdf" target="_blank" rel="noopener">Cartilha do desenvolvedor W3C</a></li>
+          <li><a href="https://opendatahandbook.org/guide/pt_BR" target="_blank" rel="noopener">Guia de Dados Abertos OKFN</a></li>
+          <li><a href="/pages/dados-abertos-para-um-dia-a-dia-melhor">Dados Abertos para um dia a dia melhor</a></li>
+        </ul>
+      </div>
+      
+      <!-- Coluna 3: Links de Interesse -->
+      <div class="pt-md-0 pt-3 col-md-3 footer-links-recife">
+        <h2>Links de Interesse</h2>
+        <ul class="list-unstyled">
+          <li><a href="https://hubdedados.recife.pe.gov.br" target="_blank" rel="noopener">Hub de Dados Recife</a></li>
+          <li><a href="https://inovacaoaberta.recife.pe.gov.br" target="_blank" rel="noopener">Inovação Aberta Recife</a></li>
+          <li><a href="https://transparencia.recife.pe.gov.br" target="_blank" rel="noopener">Portal da Transparência Recife</a></li>
+          <li><a href="https://hackercidadao.recife.pe.gov.br" target="_blank" rel="noopener">Hacker Cidadão Recife</a></li>
+          <li><a href="https://dados.gov.br" target="_blank" rel="noopener">Dados Abertos Governo Federal</a></li>
+          <li><a href="https://dados.pe.gov.br" target="_blank" rel="noopener">Dados Abertos Pernambuco</a></li>
+        </ul>
+      </div>
+
+      <!-- Coluna 4: Saiba mais -->
+      <div class="pt-md-0 pt-3 col-md-3 footer-links-recife">
+        <h2>Saiba mais</h2>
+        <ul class="list-unstyled">
+          <li><a href="/pages/dados-abertos">O que são dados abertos?</a></li>
+          <li><a href="https://www.gov.br/acessoainformacao/pt-br" target="_blank" rel="noopener">Lei de acesso a informação</a></li>
+          <li><a href="https://www.opengovpartnership.org" target="_blank" rel="noopener">Parceria para Governo Aberto</a></li>
+          <li><a href="http://www.okfn.org" target="_blank" rel="noopener">Open Knowledge Foundation</a></li>
+          <li><a href="https://opendatacommons.org" target="_blank" rel="noopener">Open Data Commons</a></li>
+          <li><a href="https://www.opendefinition.org/od" target="_blank" rel="noopener">Open Data Definition</a></li>
+          <li><a href="https://www.ckan.org/" target="_blank" rel="noopener">Associação CKAN</a></li>
+          
+          <li><a href="https://docs.ckan.org/en/2.11/api/" target="_blank" rel="noopener">API do CKAN</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Segunda linha: 2 colunas -->
+    <div class="row">
+      <div class="col-md-4 attribution text-md-start text-center">
+        
+          <p><strong>Powered by</strong> <a class="hide-text ckan-footer-logo" href="https://ckan.org" target="_blank" rel="noopener">CKAN</a></p>
+        
+        
+          
+<form class="lang-select" action="/util/redirect" data-module="select-switch" method="POST">
+  
+<input type="hidden" name="_csrf_token" value="ImNlOTRiZjQ4ZDYwMDY4YTU2MTExOTNjY2M0MzVhNjMxZGQ2ZTBlYTUi.afE2TQ.AFFYw4TYpkO5DXOYH_iMzrRPd0M"/> 
+  <div class="form-group">
+    <label for="field-lang-select">Idioma</label>
+    <select id="field-lang-select" name="url" data-module="autocomplete" data-module-dropdown-class="lang-dropdown" data-module-container-class="lang-container">
+      
+        <option value="/pt_BR/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" selected="selected">
+          português (Brasil)
+        </option>
+      
+        <option value="/en/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          English
+        </option>
+      
+        <option value="/am/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          አማርኛ
+        </option>
+      
+        <option value="/ar/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          العربية
+        </option>
+      
+        <option value="/bg/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          български
+        </option>
+      
+        <option value="/bs/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          bosanski
+        </option>
+      
+        <option value="/ca/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          català
+        </option>
+      
+        <option value="/cs_CZ/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          čeština (Česko)
+        </option>
+      
+        <option value="/da_DK/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          dansk (Danmark)
+        </option>
+      
+        <option value="/de/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Deutsch
+        </option>
+      
+        <option value="/el/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Ελληνικά
+        </option>
+      
+        <option value="/en_AU/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          English (Australia)
+        </option>
+      
+        <option value="/en_GB/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          English (United Kingdom)
+        </option>
+      
+        <option value="/es/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          español
+        </option>
+      
+        <option value="/es_AR/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          español (Argentina)
+        </option>
+      
+        <option value="/eu/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          euskara
+        </option>
+      
+        <option value="/fa_IR/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          فارسی (ایران)
+        </option>
+      
+        <option value="/fi/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          suomi
+        </option>
+      
+        <option value="/fr/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          français
+        </option>
+      
+        <option value="/gl/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          galego
+        </option>
+      
+        <option value="/gl_ES/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          galego (España)
+        </option>
+      
+        <option value="/he/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          עברית
+        </option>
+      
+        <option value="/hr/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          hrvatski
+        </option>
+      
+        <option value="/hu/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          magyar
+        </option>
+      
+        <option value="/id/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Indonesia
+        </option>
+      
+        <option value="/is/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          íslenska
+        </option>
+      
+        <option value="/it/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          italiano
+        </option>
+      
+        <option value="/ja/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          日本語
+        </option>
+      
+        <option value="/km/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          ខ្មែរ
+        </option>
+      
+        <option value="/ko_KR/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          한국어 (대한민국)
+        </option>
+      
+        <option value="/lt/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          lietuvių
+        </option>
+      
+        <option value="/lv/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          latviešu
+        </option>
+      
+        <option value="/mk/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          македонски
+        </option>
+      
+        <option value="/mn_MN/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          монгол (Монгол)
+        </option>
+      
+        <option value="/my_MM/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          မြန်မာ (မြန်မာ)
+        </option>
+      
+        <option value="/nb_NO/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          norsk bokmål (Norge)
+        </option>
+      
+        <option value="/ne/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          नेपाली
+        </option>
+      
+        <option value="/nl/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Nederlands
+        </option>
+      
+        <option value="/no/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          norsk
+        </option>
+      
+        <option value="/pl/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          polski
+        </option>
+      
+        <option value="/pt_PT/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          português (Portugal)
+        </option>
+      
+        <option value="/ro/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          română
+        </option>
+      
+        <option value="/ru/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          русский
+        </option>
+      
+        <option value="/sk/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          slovenčina
+        </option>
+      
+        <option value="/sl/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          slovenščina
+        </option>
+      
+        <option value="/sq/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          shqip
+        </option>
+      
+        <option value="/sr/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          српски
+        </option>
+      
+        <option value="/sr_Latn/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          srpski (latinica)
+        </option>
+      
+        <option value="/sv/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          svenska
+        </option>
+      
+        <option value="/th/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          ไทย
+        </option>
+      
+        <option value="/tl/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Filipino (Pilipinas)
+        </option>
+      
+        <option value="/tr/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Türkçe
+        </option>
+      
+        <option value="/uk/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          українська
+        </option>
+      
+        <option value="/uk_UA/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          українська (Україна)
+        </option>
+      
+        <option value="/vi/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          Tiếng Việt
+        </option>
+      
+        <option value="/zh_Hans_CN/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          中文 (简体, 中国)
+        </option>
+      
+        <option value="/zh_Hant_TW/dataset/2676fd74-8b40-4248-a1da-0dc45f176b7b/resource/7c005351-2d14-46cf-b2f0-6622a5553b30/download/ocorrencias2022.csv" >
+          中文 (繁體, 台灣)
+        </option>
+      
+    </select>
+  </div>
+  <button class="btn btn-default d-none " type="submit">Ir</button>
+</form>
+
+
+        
+      </div>
+      <div class="col-md-4 attribution text-center">
+        <a class="hide-text" href="https://www.recife.pe.gov.br" title="Prefeitura da Cidade do Recife" target="_blank" rel="noopener">
+          <img class="img-pcr-rodape" src="https://statics.recife.pe.gov.br/images/dynamics/logo_gestao_pcr_negativa.png?w=170&fit=fill" alt="Prefeitura da Cidade do Recife" />
+        </a>
+      </div>
+      <div class="col-md-4 attribution text-end emprel-logo-container">
+        <a class="hide-text" href="https://www.emprel.gov.br" title="Desenvolvimento pela Emprel" target="_blank" rel="noopener">
+          <img class="img-emprel-rodape" src="/base/images/recife/emprel.png" alt="Emprel - Empresa Municipal de Informática" />
+        </a>
+      </div>
+    </div>
+    
+  </div>
+</footer>
+  
+  
+  
+  
+    
+
+    
+    <link href="/webassets/vendor/f3b8236b_select2.css" rel="stylesheet"/>
+<link href="/webassets/vendor/53df638c_fontawesome.css" rel="stylesheet"/>
+    <script src="/webassets/vendor/240e5086_jquery.js" type="text/javascript"></script>
+<script src="/webassets/vendor/773d6354_vendor.js" type="text/javascript"></script>
+<script src="/webassets/vendor/6d1ad7e6_bootstrap.js" type="text/javascript"></script>
+<script src="/webassets/vendor/529a0eb7_htmx.js" type="text/javascript"></script>
+<script src="/webassets/base/a65ea3a0_main.js" type="text/javascript"></script>
+<script src="/webassets/base/b1def42f_ckan.js" type="text/javascript"></script>
+
+    <!-- Início - Configuração do VLibras -->
+    <div vw class="enabled">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+      new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>
+    <!-- Fim - Configuração do VLibras -->
+
+  </body>
+</html>
